@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "LeafDoc – পাতা ডাক্তার",
+  "short_name": "LeafDoc",
+  "description": "পাতার ছবি থেকে গাছের রোগ শনাক্ত করুন",
+  "lang": "bn",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f8f2",
+  "theme_color": "#1f6b3a",
+  "categories": ["agriculture", "utilities", "education"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
